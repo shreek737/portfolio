@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Shree Krishna.", "Designer.", "Developer.", "Freelancer."],
-      typeSpeed: 100,
+      strings: ["Shree Krishna", "Developer", "Freelancer"],
+      typeSpeed: 50,
       loop: true,
     });
   });
